@@ -2,3 +2,8 @@ REPOSITORY                     TAG                 IMAGE ID            CREATED  
 alex_eshenko/ubuntu-tmp-file   latest              7736640fc1d0        57 seconds ago      124MB
 ubuntu                         16.04               77be327e4b63        5 weeks ago         124MB
 hello-world                    latest              fce289e99eb9        15 months ago       1.84kB
+
+
+Образ - это снимок изменений (в виде слоев) в файловой системе, полученных при изменении базового Образа.
+
+Контейнер - это экземпляр Образа с дополнительными окружениями (сетевым и т.д.).
