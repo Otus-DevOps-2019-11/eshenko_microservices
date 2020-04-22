@@ -4,6 +4,7 @@ WORKDIR /app
 COPY . ./
 
 RUN apk --no-cache --update add build-base=0.4-r1 && \
+    cd /app && \
     bundle install && \
     apk del build-base
 
