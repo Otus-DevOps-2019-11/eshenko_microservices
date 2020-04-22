@@ -1,6 +1,19 @@
 # eshenko_microservices
 eshenko microservices repository
 
+Домашнее задание 16
+===================
+
+- Запущены микросервисы и Prometheus на новом инстансе GCP
+- Настроен мониторинг микросервисов
+- Настроен мониторинг сервера с использованием prom/node-exporter
+
+Ссылки на образы:
+https://hub.docker.com/repository/docker/eshenkoao/prometheus
+https://hub.docker.com/repository/docker/eshenkoao/post
+https://hub.docker.com/repository/docker/eshenkoao/comment
+https://hub.docker.com/repository/docker/eshenkoao/ui
+
 Домашнее задание 15
 ===================
 
