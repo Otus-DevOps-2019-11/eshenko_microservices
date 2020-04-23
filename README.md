@@ -1,6 +1,21 @@
 # eshenko_microservices
 eshenko microservices repository
 
+Домашнее задание 17
+===================
+
+- настроен мониторинг docker контейнеров с помощью cAdvisor
+- настроено отображение метрик с помощью Grafana
+- настроены дашбоарды и графики в Grafana
+- настроен алертинг через Alertmanager в Slack
+
+Ссылки на образы:
+https://hub.docker.com/repository/docker/eshenkoao/prometheus
+https://hub.docker.com/repository/docker/eshenkoao/post
+https://hub.docker.com/repository/docker/eshenkoao/comment
+https://hub.docker.com/repository/docker/eshenkoao/ui
+https://hub.docker.com/repository/docker/eshenkoao/alertmanager
+
 Домашнее задание 16
 ===================
 
