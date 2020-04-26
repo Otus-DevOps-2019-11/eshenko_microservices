@@ -1,6 +1,12 @@
 # eshenko_microservices
 eshenko microservices repository
 
+Домашнее задание 19
+===================
+
+- выполнена установка и настройка kubernetes по мануалу The Hard Way
+- проверен запуск с помощью файлов *-deployment.yml (kubectl apply -f <filename>)
+
 Домашнее задание 18
 ===================
 
