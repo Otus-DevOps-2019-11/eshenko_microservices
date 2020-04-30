@@ -1,0 +1,20 @@
+comment:
+  image:
+    repository: eshenkoao/comment
+    tag: latest
+  service:
+    externalPort: 9292
+
+post:
+  image:
+    repository: eshenkoao/post
+    tag: latest
+  service:
+    externalPort: 5000
+
+ui:
+  image:
+    repository: eshenkoao/ui
+    tag: latest
+  service:
+    externalPort: 9292
